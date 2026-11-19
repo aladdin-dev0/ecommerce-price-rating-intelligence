@@ -1,0 +1,161 @@
+{
+  "total_products": 60,
+  "total_categories": 25,
+  "total_inventory_value_gbp": 37912.99,
+  "average_price_gbp": 35.0,
+  "median_price_gbp": 33.48,
+  "average_rating": 3.0,
+  "segment_distribution": {
+    "Mid-Market Stable": 13,
+    "Overpriced Risk (High Price, Low Rating)": 12,
+    "Premium Leader (High Quality, High Margin)": 12,
+    "Hidden Gem (High Value Opportunity)": 12,
+    "Budget Underperformer (Low Rating, Low Price)": 11
+  },
+  "top_hidden_gems": [
+    {
+      "title": "Thirst",
+      "category": "Fiction",
+      "price_gbp": 17.27,
+      "rating_score": 5,
+      "vfmi_index": 11.9
+    },
+    {
+      "title": "Untitled Collection: Sabbath Poems 2014",
+      "category": "Poetry",
+      "price_gbp": 14.27,
+      "rating_score": 4,
+      "vfmi_index": 10.26
+    },
+    {
+      "title": "Set Me Free",
+      "category": "Young Adult",
+      "price_gbp": 17.46,
+      "rating_score": 5,
+      "vfmi_index": 8.2
+    },
+    {
+      "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+      "category": "Nonfiction",
+      "price_gbp": 23.11,
+      "rating_score": 5,
+      "vfmi_index": 7.04
+    },
+    {
+      "title": "Shakespeare's Sonnets",
+      "category": "Poetry",
+      "price_gbp": 20.66,
+      "rating_score": 4,
+      "vfmi_index": 7.02
+    }
+  ],
+  "top_overpriced_risks": [
+    {
+      "title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+      "category": "Food and Drink",
+      "price_gbp": 56.41,
+      "rating_score": 1,
+      "inventory_value_gbp": 902.56
+    },
+    {
+      "title": "The Secret of Dreadwillow Carse",
+      "category": "Childrens",
+      "price_gbp": 56.13,
+      "rating_score": 1,
+      "inventory_value_gbp": 898.08
+    },
+    {
+      "title": "Tipping the Velvet",
+      "category": "Historical Fiction",
+      "price_gbp": 53.74,
+      "rating_score": 1,
+      "inventory_value_gbp": 1074.8
+    },
+    {
+      "title": "The Black Maria",
+      "category": "Poetry",
+      "price_gbp": 52.15,
+      "rating_score": 1,
+      "inventory_value_gbp": 990.85
+    },
+    {
+      "title": "Libertarianism for Beginners",
+      "category": "Politics",
+      "price_gbp": 51.33,
+      "rating_score": 2,
+      "inventory_value_gbp": 975.27
+    }
+  ],
+  "top_categories": {
+    "General": {
+      "product_count": 7,
+      "avg_price": 25.92,
+      "avg_rating": 2.86,
+      "total_stock": 131,
+      "total_inventory_val": 3396.43
+    },
+    "Poetry": {
+      "product_count": 7,
+      "avg_price": 36.24,
+      "avg_rating": 2.57,
+      "total_stock": 129,
+      "total_inventory_val": 4750.35
+    },
+    "Nonfiction": {
+      "product_count": 6,
+      "avg_price": 32.7,
+      "avg_rating": 3.67,
+      "total_stock": 102,
+      "total_inventory_val": 3330.94
+    },
+    "Fiction": {
+      "product_count": 4,
+      "avg_price": 41.31,
+      "avg_rating": 4.0,
+      "total_stock": 69,
+      "total_inventory_val": 2892.01
+    },
+    "Childrens": {
+      "product_count": 3,
+      "avg_price": 49.22,
+      "avg_rating": 1.67,
+      "total_stock": 53,
+      "total_inventory_val": 2600.26
+    },
+    "Music": {
+      "product_count": 3,
+      "avg_price": 43.2,
+      "avg_rating": 3.33,
+      "total_stock": 57,
+      "total_inventory_val": 2462.21
+    },
+    "Mystery": {
+      "product_count": 3,
+      "avg_price": 41.32,
+      "avg_rating": 3.0,
+      "total_stock": 54,
+      "total_inventory_val": 2213.74
+    },
+    "Young Adult": {
+      "product_count": 3,
+      "avg_price": 28.44,
+      "avg_rating": 3.0,
+      "total_stock": 54,
+      "total_inventory_val": 1485.61
+    },
+    "Thriller": {
+      "product_count": 3,
+      "avg_price": 29.63,
+      "avg_rating": 3.33,
+      "total_stock": 55,
+      "total_inventory_val": 1612.68
+    },
+    "Sequential Art": {
+      "product_count": 3,
+      "avg_price": 29.35,
+      "avg_rating": 3.33,
+      "total_stock": 51,
+      "total_inventory_val": 1565.83
+    }
+  }
+}
